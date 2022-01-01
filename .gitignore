@@ -22,6 +22,9 @@
 !.config/sxhkd
 !.config/sxhkd/**
 
+!.config/dunst
+!.config/dunst/**
+
 !Pictures
 !Pictures/*
 
