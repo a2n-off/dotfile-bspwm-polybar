@@ -7,7 +7,9 @@
 #
 !.config
 !.config/polybar
+!.config/polybar/*
 !.config/bspwm
+!.config/bspwm/*
 !.config/picom
 !.config/rofi
 !.config/sxhkd
