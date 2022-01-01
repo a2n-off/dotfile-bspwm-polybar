@@ -1,12 +1,13 @@
 *
 
 !.gitignore
-!.config/*
+
 !.config/.polybar/*
 !.config/.bspwm/*
 !.config/.picom/*
 !.config/.rofi/*
 !.config/.sxhkd/*
+
 !Pictures/*
 
 !*/
