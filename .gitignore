@@ -1,18 +1,18 @@
+# ignore all
 *
 
+# not this file
 !.gitignore
 
+#
+!.config
 !.config/.polybar
 !.config/.bspwm
 !.config/.picom
 !.config/.rofi
 !.config/.sxhkd
 
-.config/*
-
 !Pictures/*
 
-
-
+# ignore prod env
 .config/.polybar/scripts/env.sh
-
