@@ -8,6 +8,8 @@
 !.config/.rofi/*
 !.config/.sxhkd/*
 
+.config/*
+
 !Pictures/*
 
 
