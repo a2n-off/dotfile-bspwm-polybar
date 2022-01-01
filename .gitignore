@@ -25,6 +25,14 @@
 !.config/dunst
 !.config/dunst/**
 
+!.config/fontconfig
+!.config/fontconfig/**
+
+!.config/nitrogen
+!.config/nitrogen/**
+
+!.config/betterlockscreenrc
+
 !Pictures
 !Pictures/*
 
