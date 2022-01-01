@@ -7,7 +7,7 @@
 #
 !.config
 !.config/polybar
-!.config/polybar/*
+!.config/polybar/*/*
 !.config/bspwm
 !.config/bspwm/*
 !.config/picom
