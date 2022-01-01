@@ -13,6 +13,7 @@
 !.config/sxhkd
 
 !Pictures
+!Pictures/*
 
 # ignore prod env
 .config/.polybar/scripts/env.sh
