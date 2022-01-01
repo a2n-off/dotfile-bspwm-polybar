@@ -2,11 +2,11 @@
 
 !.gitignore
 
-!.config/.polybar/*
-!.config/.bspwm/*
-!.config/.picom/*
-!.config/.rofi/*
-!.config/.sxhkd/*
+!.config/.polybar
+!.config/.bspwm
+!.config/.picom
+!.config/.rofi
+!.config/.sxhkd
 
 .config/*
 
